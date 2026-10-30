@@ -97,7 +97,7 @@ Ejecuta estos escenarios de prueba para asegurarte de que todo funciona:
 |--------|-------------------|
 | Campos vacíos, clic en Battle | Error con estilo y animación de sacudida |
 | Nombres de usuario válidos | Gráficos de contribuciones mostrados |
-| Nombre de usuario inválido | Error de la API con estilo retro |
+| Nombre de usuario inválido | Error de la API con estética retro |
 | Tecla Enter en el input | Activa la batalla |
 | Ancho móvil | Diseño responsivo de una sola columna |
 | Pasar el cursor sobre cuadros de contribución | Tooltip con fecha y cantidad |

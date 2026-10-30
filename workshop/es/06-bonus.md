@@ -62,7 +62,7 @@ Persiste los resultados de las batallas para que los usuarios puedan ver sus enf
 
 ## 🏆 Desafío 4: Efectos de Sonido
 
-Agrega efectos de sonido retro arcade usando la Web Audio API — sin necesidad de archivos externos.
+Agrega efectos de sonido de arcade retro con la Web Audio API — sin necesidad de archivos externos.
 
 **Qué construir:**
 - Sonido de **insertar moneda** cuando se hace clic en el botón "Battle!"
@@ -130,14 +130,14 @@ Si quieres explorar más funcionalidades de Copilot CLI después del taller prin
 - Usa `/session` y `/session plan` para inspeccionar cómo el CLI está rastreando tu trabajo actual.
 <!-- track:cli:end -->
 
-## �� ¡Felicitaciones!
+## 🎊 ¡Felicitaciones!
 
 ¡Has completado el taller **Mona Mayhem: GitHub Battle**! Esto es lo que lograste:
 
 ### Lo Que Construiste
 
 - ✅ Una **aplicación web completa de múltiples páginas** a partir de una especificación de diseño
-- ✅ Una **página de inicio** con temática retro arcade y diseño responsivo
+- ✅ Una **página de inicio** con temática de arcade retro y diseño responsivo
 - ✅ Una **arena de batalla** que obtiene y compara datos reales de contribuciones de GitHub
 - ✅ **Gráficos de contribuciones interactivos** con niveles de actividad codificados por colores
 - ✅ **Manejo de errores, estados de carga y mejoras de accesibilidad**
@@ -147,7 +147,7 @@ Si quieres explorar más funcionalidades de Copilot CLI después del taller prin
 
 | Habilidad | Lo Que Practicaste |
 |-----------|-------------------|
-| **Context Engineering** | Darle a Copilot los archivos, instrucciones y restricciones correctas |
+| **Ingeniería de contexto** | Darle a Copilot los archivos, instrucciones y restricciones correctas |
 | **Planificación** | Generar y refinar planes de implementación antes de programar |
 | **Codificación Agéntica** | Delegar trabajo en múltiples archivos y múltiples pasos a Copilot |
 | **Iteración de Diseño** | Comenzar desde una dirección visual y refinar hacia un resultado pulido |

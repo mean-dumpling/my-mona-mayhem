@@ -97,7 +97,7 @@ Execute estes cenários de teste para garantir que tudo funciona:
 |-------|-------------------|
 | Campos vazios, clicar em Battle | Erro estilizado com animação de tremor |
 | Nomes de usuário válidos | Gráficos de contribuições exibidos |
-| Nome de usuário inválido | Erro da API com estilo retro |
+| Nome de usuário inválido | Erro da API com estilo retrô |
 | Tecla Enter no input | Dispara a batalha |
 | Largura móvel | Layout responsivo de coluna única |
 | Passar o cursor sobre quadrados de contribuição | Tooltip com data e contagem |
